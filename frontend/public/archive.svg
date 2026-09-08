@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">SecureVault monogram</title>
+  <rect width="64" height="64" rx="13" fill="#080b13"/>
+  <path d="M9 23V10h13M42 10h13v13M55 41v13H42M22 54H9V41" fill="none" stroke="#687287" stroke-width="3" stroke-linecap="square"/>
+  <path d="M39 19c-2-3-6-5-11-5-7 0-12 4-12 10 0 7 6 8 12 10 5 1 8 2 8 6 0 3-3 5-8 5-5 0-9-2-12-6" fill="none" stroke="#5df5df" stroke-width="5" stroke-linecap="square"/>
+  <path d="m35 29 7 17 7-17" fill="none" stroke="#ff72bc" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+  <circle cx="52" cy="12" r="3" fill="#ffd166"/>
+</svg>
